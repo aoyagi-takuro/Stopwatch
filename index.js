@@ -17,7 +17,7 @@ startBtn.addEventListener('click', () => {
     startTime = Date.now();
 
     timeOutId = setInterval(countUp, 10);
-    
+
 });
 
 
@@ -42,5 +42,5 @@ stopBtn.addEventListener('click', () => {
 
 // resetボタンを押したら0になる
 // resetBtn.addEventListener('click', () => {
-
+    
 // });
